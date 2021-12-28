@@ -3,8 +3,13 @@
 To start the server used to serve the static files/assets, run:
 
 ```bash
+
 git clone git@github.com:tbusillo/tailwind_starter.git
+
+cd tailwind_starter
+
 yarn install
+
 yarn watch 
 
 ```
