@@ -16,5 +16,3 @@ yarn watch
 
 After that, try opening the index.html file in the browser, and you should be good! 
 
-Then run...
-
