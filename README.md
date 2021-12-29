@@ -1,6 +1,6 @@
 # Tailwind Starter
 
-To start the server used to serve the static files/assets, run:
+To use this starter, run the following commands via your terminal/shell of choice:
 
 ```bash
 
