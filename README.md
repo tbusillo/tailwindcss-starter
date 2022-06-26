@@ -8,7 +8,6 @@ This template is intended for absolute beginners trying to get started with Tail
 
 - No dependencies other than Tailwind CSS and your package manager of choice! 
 - Start learning and using Tailwind without having to struggle through the configuration. 
-- 
 
 ## Getting started
 
