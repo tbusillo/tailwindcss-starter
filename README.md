@@ -2,7 +2,7 @@
 
 Getting started with using [Tailwind CSS](https://www.tailwindcss.com) has never been easier! Within seconds you will have everything needed to begin writing code and worry less about configuration. 
 
-This template is intended for absolute beginners trying to get started with Tailwind, package managers, and/or frontend development altogethner. 
+This template is intended for absolute beginners trying to get started with Tailwind, package managers, and/or frontend development altogether. 
 
 ## Features
 
